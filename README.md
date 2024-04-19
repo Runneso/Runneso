@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Runneso</h1>
 <h3 align="center">A beginning backend developer from Kaliningrad, Russia</h3>
 
-- 🌱 I’m currently learning **Python backend**
+- 🌍 I’m currently learning **Python backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Runneso](https://github.com/Runneso?tab=repositories)
+- 👨‍🎓 All of my projects are available at [https://github.com/Runneso](https://github.com/Runneso?tab=repositories)
 
 - 📷 Social networks [https://socprofile.com/runneso/](https://socprofile.com/runneso/)
 
