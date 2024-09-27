@@ -10,7 +10,7 @@
 - 📫 How to reach me **maks.safronov.2006@gmail.com**
 
 - ⚡ Fun fact **Manul fun**
-I am gay
+
 <h3 align="left">Competitive programming:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/runneso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="runneso" height="30" width="40" /></a>
