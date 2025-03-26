@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Runneso</h1>
-<h3 align="center">A beginning backend developer from Kaliningrad, Russia</h3>
+<h3 align="center">A Yandex intern developer from Kaliningrad, Russia</h3>
 
 - 🌍 I’m currently learning **Python backend**
 
