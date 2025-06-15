@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Runneso</h1>
 <h3 align="center">A Yandex intern developer from Kaliningrad, Russia</h3>
 
-- 🌍 I’m currently learning **Python backend**
-
-- 👨‍🎓 All of my projects are available at [https://github.com/Runneso](https://github.com/Runneso?tab=repositories)
-
-- 📷 Social networks [https://socprofile.com/runneso/](https://socprofile.com/runneso/)
-
-- 📫 How to reach me **maalsafronov@edu.hse.ru**
-
-- ⚡ Fun fact **Manul fun**
+* 🧠 I'm learning Kubernetes and Apache Kafka
+* 🤝 I'm open to collaborating on interesting projects
+* 👨‍🎓 All of my projects are available at [https://github.com/Runneso](https://github.com/Runneso?tab=repositories)
+* 📷 Social networks [https://socprofile.com/runneso/](https://socprofile.com/runneso/)
+* 📫 How to reach me **maalsafronov@edu.hse.ru**
 
 <h3 align="left">Competitive programming:</h3>
 <p align="left">
