@@ -7,7 +7,7 @@
 
 - 📷 Social networks [https://socprofile.com/runneso/](https://socprofile.com/runneso/)
 
-- 📫 How to reach me **maks.safronov.2006@gmail.com**
+- 📫 How to reach me **maalsafronov@edu.hse.ru**
 
 - ⚡ Fun fact **Manul fun**
 
