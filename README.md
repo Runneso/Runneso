@@ -5,7 +5,7 @@
 * 🤝 I'm open to collaborating on interesting projects
 * 👨‍🎓 All of my projects are available at [https://github.com/Runneso](https://github.com/Runneso?tab=repositories)
 * 📷 Social networks [https://socprofile.com/runneso/](https://socprofile.com/runneso/)
-* 📫 How to reach me maalsafronov@edu.hse.ru(mailto:maalsafronov@edu.hse.r)
+* 📫 How to reach me [maalsafronov@edu.hse.ru](mailto:maalsafronov@edu.hse.r)
 
 <h3 align="left">Competitive programming:</h3>
 <p align="left">
