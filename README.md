@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/78a478eb-4bca-45bc-b462-19a03e71914d)<h1 align="center">Hi 👋, I'm Runneso</h1>
+<h1 align="center">Hi 👋, I'm Runneso</h1>
 <h3 align="center">A Yandex intern developer from Kaliningrad, Russia</h3>
 
 - 🌍 I’m currently learning **Python backend**
