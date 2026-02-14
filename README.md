@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Runneso</h1>
-<h3 align="center">A Yandex intern developer from Kaliningrad, Russia</h3>
+<h3 align="center">A SDE from Kaliningrad, Russia</h3>
 
 * 🧠 I'm learning Kubernetes and Apache Kafka
 * 🤝 I'm open to collaborating on interesting projects
@@ -17,6 +17,7 @@
 <p align="left"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTc3wwVFk4RrsQHsAafyJYQOkKwrb7WSIiQ&s" alt="golang" width="40" height="40"/> </a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
     
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a> 
