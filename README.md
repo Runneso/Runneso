@@ -30,8 +30,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/ru/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/642px-Amazon-S3-Logo.svg.png?20220427001138" alt="amazon s3" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/ru/sqs/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/aws-sqs-simple-queue-service-icon-1697x2048-dc7jy6cc.png" alt="amazon sqs" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/ru/s3/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349587/amazon-s3.svg" alt="amazon s3" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/ru/sqs/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353463/aws-sqs.svg" alt="amazon sqs" width="40" height="40"/> </a>
 
   
   
