@@ -14,19 +14,22 @@
 ---
 
 ### Competitive programming
+
 <table>
   <tr>
-     <td align="center" width="80">
+    <td align="center" width="100">
       <a href="https://codeforces.com/profile/Runneso" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLW5PtQXCXUzow6f5rjp7ARXfF91BCCDQBg&s" alt="Codeforces" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
       </a>
-      <br>Codeforces
+      <br/>
+      Codeforces
     </td>
-     <td align="center" width="80">
+    <td align="center" width="100">
       <a href="https://leetcode.com/u/Runneso/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
       </a>
-      <br>LeetCode
+      <br/>
+      LeetCode
     </td>
   </tr>
 </table>
@@ -37,105 +40,119 @@
 
 <table>
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
       </a>
-      <br>C++
+      <br/>
+      C++
     </td>
-    <td align="center" width="80">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+    <td align="center" width="100">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
       </a>
-      <br>Python
+      <br/>
+      Python
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <a href="https://go.dev/" target="_blank">
-        <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
       </a>
-      <br>Go
+      <br/>
+      Go
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <a href="https://www.java.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
       </a>
-      <br>Java
+      <br/>
+      Java
     </td>
   </tr>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://nginx.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40"/>
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-      </a>
-      <br>Docker
-    </td>
 
-    <td align="center" width="80">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://nginx.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+      </a>
+      <br/>
+      Nginx
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+      </a>
+      <br/>
+      Docker
+    </td>
+    <td align="center" width="100">
       <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://habrastorage.org/webt/l0/fx/s_/l0fxs_nscjbms9fb7syfluc7tjw.png" alt="Kubernetes" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
       </a>
-      <br>Kubernetes
+      <br/>
+      Kubernetes
     </td>
-    
-    <td align="center" width="80">
+    <td align="center" width="100">
       <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
       </a>
-      <br>Git
+      <br/>
+      Git
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
       </a>
-      <br>PostgreSQL
+      <br/>
+      PostgreSQL
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
       </a>
-      <br>MongoDB
+      <br/>
+      MongoDB
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <a href="https://aws.amazon.com/s3/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/500px-Amazon-S3-Logo.svg.png" alt="Amazon S3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon S3" width="40" height="40"/>
       </a>
-      <br>S3
-    </td>  
-      <td align="center" width="80">
+      <br/>
+      S3
+    </td>
+    <td align="center" width="100">
       <a href="https://redis.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
       </a>
-      <br>Redis
+      <br/>
+      Redis
     </td>
-    </td>  
-      <td align="center" width="80">
-      <a href="https://clickhouse.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" alt="ClickHouse" width="40" height="40"/>
-      </a>
-      <br>ClickHouse
-    </td>
-    
   </tr>
+
   <tr>
-    <td align="center" width="80">
-      <a href="https://aws.amazon.com/ru/sqs/" target="_blank">
-        <img src="https://www.svgrepo.com/show/353463/aws-sqs.svg" alt="Amazon SQS" width="40" height="40"/>
+    <td align="center" width="100">
+      <a href="https://clickhouse.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/clickhouse.svg" alt="ClickHouse" width="40" height="40"/>
       </a>
-      <br>SQS
+      <br/>
+      ClickHouse
     </td>
-    <td align="center" width="80">
-      <a href="https://kafka.apache.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" alt="Apache Kafka" width="40" height="40"/>
+    <td align="center" width="100">
+      <a href="https://aws.amazon.com/sqs/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonsqs.svg" alt="Amazon SQS" width="40" height="40"/>
       </a>
-      <br>Apache Kafka
+      <br/>
+      SQS
+    </td>
+    <td align="center" width="100">
+      <a href="https://kafka.apache.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" alt="Apache Kafka" width="40" height="40"/>
+      </a>
+      <br/>
+      Apache Kafka
     </td>
   </tr>
 </table>
