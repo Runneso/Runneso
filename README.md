@@ -75,6 +75,14 @@
       </a>
       <br>Docker
     </td>
+
+    <td align="center" width="80">
+      <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://habrastorage.org/webt/l0/fx/s_/l0fxs_nscjbms9fb7syfluc7tjw.png" alt="Kubernetes" width="40" height="40"/>
+      </a>
+      <br>Kubernetes
+    </td>
+    
     <td align="center" width="80">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
