@@ -80,13 +80,6 @@
         <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
       </a>
       <br>Redis
-    </td>
-        <td align="center" width="80">
-      <a href="https://aws.amazon.com/sqs/" target="_blank">
-        <img src="https://www.svgrepo.com/show/353463/aws-sqs.svg" alt="Amazon SQS" width="40" height="40"/>
-      </a>
-      <br>SQS
-    </td>
   </tr>
   <tr>
     <td align="center" width="80">
@@ -106,6 +99,13 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/500px-Amazon-S3-Logo.svg.png" alt="Amazon S3" width="40" height="40"/>
       </a>
       <br>S3
+    </td>
+        </td>
+        <td align="center" width="80">
+      <a href="https://aws.amazon.com/sqs/" target="_blank">
+        <img src="https://www.svgrepo.com/show/353463/aws-sqs.svg" alt="Amazon SQS" width="40" height="40"/>
+      </a>
+      <br>SQS
     </td>
   </tr>
 </table>
