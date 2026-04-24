@@ -84,12 +84,6 @@
   </tr>
   <tr>
     <td align="center" width="80">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/>
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="80">
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
       </a>
