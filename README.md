@@ -18,15 +18,15 @@
   <tr>
      <td align="center" width="80">
       <a href="https://codeforces.com/profile/Runneso" target="_blank">
-        <img src="https://en.wikipedia.org/wiki/File:Codeforces_logo.svg#/media/File:Codeforces_logo.svg" alt="Codeforces" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="Codeforces" width="40" height="40"/>
       </a>
-      <br>C++
+      <br>Codeforces
     </td>
      <td align="center" width="80">
       <a href="https://leetcode.com/u/Runneso/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
       </a>
-      <br>C++
+      <br>LeetCode
     </td>
   </tr>
 </table>
