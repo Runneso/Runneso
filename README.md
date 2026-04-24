@@ -81,11 +81,6 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="80">
-      <a href="https://redis.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
-      </a>
-      <br>Redis
   </tr>
   <tr>
     <td align="center" width="80">
@@ -106,10 +101,24 @@
       </a>
       <br>S3
     </td>  
+      <td align="center" width="80">
+      <a href="https://redis.io/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
+      </a>
+      <br>Redis
+    </td>
+    </td>  
+      <td align="center" width="80">
+      <a href="https://redis.io/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" alt="ClickHouse" width="40" height="40"/>
+      </a>
+      <br>ClickHouse
+    </td>
+    
   </tr>
   <tr>
     <td align="center" width="80">
-      <a href="https://aws.amazon.com/sqs/" target="_blank">
+      <a href="https://clickhouse.com/" target="_blank">
         <img src="https://www.svgrepo.com/show/353463/aws-sqs.svg" alt="Amazon SQS" width="40" height="40"/>
       </a>
       <br>SQS
