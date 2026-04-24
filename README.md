@@ -14,17 +14,22 @@
 ---
 
 ### Competitive programming
-
-<p align="left">
-  <a href="https://codeforces.com/profile/runneso" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/runneso" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
-  </a>
-</p>
-
+<table>
+  <tr>
+     <td align="center" width="80">
+      <a href="https://codeforces.com/profile/Runneso" target="_blank">
+        <img src="https://en.wikipedia.org/wiki/File:Codeforces_logo.svg#/media/File:Codeforces_logo.svg" alt="Codeforces" width="40" height="40"/>
+      </a>
+      <br>C++
+    </td>
+     <td align="center" width="80">
+      <a href="https://leetcode.com/u/Runneso/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
+      </a>
+      <br>C++
+    </td>
+  </tr>
+</table>
 ---
 
 ### Stack Languages and Tools
