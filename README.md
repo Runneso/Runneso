@@ -128,6 +128,13 @@
       </a>
       <br/>S3
     </td>
+    <td align="center" width="100">
+      <a href="https://redis.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+      </a>
+      <br/>
+      Redis
+    </td>
   </tr>
 </table>
 
