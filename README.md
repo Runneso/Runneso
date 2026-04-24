@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="https://www.w3schools.com/cpp/" target="_blank">
+      <a href="https://isocpp.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
       </a>
       <br/>C++
