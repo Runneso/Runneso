@@ -95,6 +95,12 @@
       </a>
       <br/>Git
     </td>
+    <td align="center" width="100">
+      <a href="https://prometheus.io/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1280px-Prometheus_software_logo.svg.png" width="40" height="40"/>
+      </a>
+      <br/>Prometheus
+    </td>
   </tr>
 </table>
 
