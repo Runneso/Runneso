@@ -18,7 +18,7 @@
   <tr>
      <td align="center" width="80">
       <a href="https://codeforces.com/profile/Runneso" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="Codeforces" width="40" height="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLW5PtQXCXUzow6f5rjp7ARXfF91BCCDQBg&s" alt="Codeforces" width="40" height="40"/>
       </a>
       <br>Codeforces
     </td>
@@ -30,6 +30,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### Stack Languages and Tools
