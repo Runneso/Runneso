@@ -109,7 +109,7 @@
     </td>
     </td>  
       <td align="center" width="80">
-      <a href="https://redis.io/" target="_blank">
+      <a href="https://clickhouse.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" alt="ClickHouse" width="40" height="40"/>
       </a>
       <br>ClickHouse
@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td align="center" width="80">
-      <a href="https://clickhouse.com/" target="_blank">
+      <a href="https://aws.amazon.com/ru/sqs/" target="_blank">
         <img src="https://www.svgrepo.com/show/353463/aws-sqs.svg" alt="Amazon SQS" width="40" height="40"/>
       </a>
       <br>SQS
